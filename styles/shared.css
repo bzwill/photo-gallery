@@ -1,0 +1,35 @@
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    color: rgb(48, 48, 48);
+}
+
+body{
+    text-align: center;
+    background-color: rgb(124, 124, 124);
+}
+
+img {
+    width:500px;
+    height:500px;
+}   
+
+.frame-container{
+    display: block;
+}
+
+.frame{
+    display: inline-block;
+    background-color: white;
+    border-radius: 1px;
+    border: 20px solid white;    
+    box-shadow: 2px 2px 5px rgb(70, 70, 70);
+    margin: 40px 20px;
+}
+
+.photo-title{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin: 20px 0px 10px 0px;
+}
