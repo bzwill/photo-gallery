@@ -1,5 +1,5 @@
 h1{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-size: 50px;
     font-weight: 400;
     color: rgb(48, 48, 48);
@@ -13,6 +13,7 @@ body{
 img {
     width:500px;
     height:500px;
+    border-radius: 3px;
 }   
 
 .frame-container{
@@ -22,7 +23,7 @@ img {
 .frame{
     display: inline-block;
     background-color: white;
-    border-radius: 1px;
+    border-radius: 3px;
     border: 20px solid white;    
     box-shadow: 2px 2px 5px rgb(70, 70, 70);
     margin: 40px 20px;
